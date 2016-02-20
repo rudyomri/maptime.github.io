@@ -55,14 +55,18 @@ moreInfo: null
       "properties": {
         "location": "Eugene, OR",
         "title": "MaptimeEUG",
-        "twitter": "",
+        "twitter": "MaptimeEUG",
         "website": "http://maptime.io/eugene/",
         "meetup": "",
-        "comingSoon": true,
+        "comingSoon": false,
         "organizers": [
           {
             "name": "Christine Grummon",
             "twitter": ""
+          },
+          {
+            "name": "Rudy Omri",
+            "twitter": "rudyomri"
           }
         ],
         "moreInfo": null
